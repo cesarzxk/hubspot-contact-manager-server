@@ -32,7 +32,7 @@ Em seguida um comando para iniciar o servidor em modo desenvolvimento:
 $ yarn dev
 ```
 
-## 🖥️ End-points
+## ➡️ End-points
 
 O back-end é composto por 3 end points:
 
